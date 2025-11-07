@@ -297,10 +297,10 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
 INPUT urnik.aux
 INPUT .\urnik.out
 INPUT .\urnik.out
-INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi10.pk
-INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi10.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi7.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi7.pk
+INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi10.pk
+INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccmi10.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\concmath-fonts\dpi600\xccsy10.pk
@@ -323,7 +323,11 @@ INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi720\eo
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi720\eorm10.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi1037\eorm10.pk
 INPUT C:\Users\xq10302\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi1037\eorm10.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmtt10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmtt10.pfb
