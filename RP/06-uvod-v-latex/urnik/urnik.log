@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.7)  7 NOV 2025 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.7)  7 NOV 2025 15:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -746,50 +746,50 @@ File: ts1ccr.fd 1999/11/22 v1.0a (WaS)
 [2{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 178.
+(Font)              using `T1/ccr/bx/n' instead on input line 179.
 
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 185.
+(Font)              using `T1/ccr/bx/n' instead on input line 186.
 
 LaTeX Font Info:    Font shape `T1/ccr/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmr/bx/n' tried instead on input line 185.
+(Font)              Font shape `T1/cmr/bx/n' tried instead on input line 186.
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 218.
+(Font)              using `T1/ccr/bx/n' instead on input line 219.
 
 
 
 [3]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 249.
+(Font)              using `T1/ccr/bx/n' instead on input line 250.
 
 
 
 [4]
 
-LaTeX Warning: Command \v invalid in math mode on input line 282.
+LaTeX Warning: Command \v invalid in math mode on input line 283.
 
 
-LaTeX Warning: Command \v invalid in math mode on input line 282.
+LaTeX Warning: Command \v invalid in math mode on input line 283.
 
 
-LaTeX Warning: Command \v invalid in math mode on input line 282.
+LaTeX Warning: Command \v invalid in math mode on input line 283.
 
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 292.
+(Font)              using `T1/ccr/bx/n' instead on input line 293.
 
 
 
 [5]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 321.
+(Font)              using `T1/ccr/bx/n' instead on input line 322.
 
 
-Overfull \hbox (10.29352pt too wide) in paragraph at lines 368--371
+Overfull \hbox (10.29352pt too wide) in paragraph at lines 369--372
 []\T1/ccr/m/up/10 Za vse pro-ste ter-mine $\OML/ccm/m/it/10 predavalnica[]$ \T1/ccr/m/up/10 iz-ra-£u-namo ceno vsta-vlja-nja $\OML/ccm/m/it/10 srecanja[]$\T1/ccr/m/up/10 ,
  []
 
@@ -798,38 +798,38 @@ Overfull \hbox (10.29352pt too wide) in paragraph at lines 368--371
 [6]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 385.
+(Font)              using `T1/ccr/bx/n' instead on input line 386.
 
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 418.
+(Font)              using `T1/ccr/bx/n' instead on input line 419.
 
 
 
 [7]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 487.
+(Font)              using `T1/ccr/bx/n' instead on input line 488.
 
 
 
 [8]
 
-LaTeX Warning: Command \v invalid in math mode on input line 504.
+LaTeX Warning: Command \v invalid in math mode on input line 505.
 
 
-LaTeX Warning: Command \v invalid in math mode on input line 504.
+LaTeX Warning: Command \v invalid in math mode on input line 505.
 
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 515.
+(Font)              using `T1/ccr/bx/n' instead on input line 516.
 
 
 
 [9]
 
 LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
-(Font)              using `T1/ccr/bx/n' instead on input line 553.
+(Font)              using `T1/ccr/bx/n' instead on input line 554.
 
 
 
@@ -854,7 +854,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1512b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/concmath-fonts/dpi600\xccmi7.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/concmath-fonts/dpi600\xccmi10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/concmath-fonts/dpi600\xccsy10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi600\eoti10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi600\torm10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi600\eorm10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi600\eorm9.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi720\eorm10.pk> <C:\Users\xq10302\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ecc/dpi1037\eorm10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/euex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on urnik.pdf (10 pages, 168675 bytes).
+Output written on urnik.pdf (10 pages, 168683 bytes).
 PDF statistics:
  455 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)

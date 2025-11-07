@@ -1,46 +1,7 @@
-/.bash_history
-/.dotnet
-/.gitconfig
-/.lesshst
-/.ms-ad
-/.ssh
-/.uc-62d95661b5c8b1a174f684765b162e9b.xq10302.r312-08.tmp
-/.vscode
-/AppData
-/Contacts
-/Desktop
-/Documents
-/Downloads
-/Favorites
-/IntelGraphicsProfiles
-/Links
-/Music
-/NTUSER.DAT
-/ntuser.dat.LOG1
-/ntuser.dat.LOG2
-/NTUSER.DAT{43eb9217-5b0e-11f0-8a68-00155dde1513}.TM.blf
-/NTUSER.DAT{43eb9217-5b0e-11f0-8a68-00155dde1513}.TMContainer00000000000000000001.regtrans-ms
-/NTUSER.DAT{43eb9217-5b0e-11f0-8a68-00155dde1513}.TMContainer00000000000000000002.regtrans-ms
-/ntuser.ini
-/OneDrive
-/Pictures
-/Saved Games
-/Searches
-/Videos
-/_Osebno
-/Cookies
-/Application Data
-/My Documents
-/Local Settings
-/NetHood
-/PrintHood
-/SendTo
-/Templates
-/Start Menu
-/Recent
-.aux
-.fdb_latexmk
-.fls
-.log
-.out
-.synctex.gz
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
