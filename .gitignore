@@ -1,7 +1,22 @@
-
+# LaTeX temporary files (do not track in git)
 *.aux
-*.fdb_latexmk
-*.fls
 *.log
 *.out
+*.fls
+*.fds_latexmk
+*.fdb_latexmk
 *.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.lot
+*.lof
+*.bcf
+*.run.xml
+*.run.xml
+*.xml
+*.toc
+*.pdfsync
